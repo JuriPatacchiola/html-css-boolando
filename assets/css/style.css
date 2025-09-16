@@ -118,3 +118,15 @@
   color: #777;
   margin-left: 5px;
 }
+
+.flex-footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    text-align: left;
+    padding: 40px;
+    padding-right: 180px;
+    padding-left: 150px;
+
+}
